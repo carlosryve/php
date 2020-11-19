@@ -1,5 +1,5 @@
 <?php
 
-echo "Ola Ryve";
+echo "Inicio da API";
 
 ?>
